@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/oni">
+        <file>cap1.oni</file>
+        <file>cap2.oni</file>
+        <file>cap3.oni</file>
+    </qresource>
+</RCC>
